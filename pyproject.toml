@@ -8,7 +8,7 @@ packages = [{include = "kami_data_analisys"}]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
-kami-uno-database = "^0.1.7"
+kami-uno-database = "^0.2.7"
 pandas = "^2.1.1"
 matplotlib = "^3.8.0"
 plotly = "^5.17.0"
